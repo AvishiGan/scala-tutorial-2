@@ -19,5 +19,6 @@ object Q5_a extends App{
     printf("Take Home = %.2f", takeHome(40, 30))
 }
 
-/*printf:
-This is helpful in writing format strings and also places extra arguments.*/
+// printf:
+// Helpful in writing format strings 
+// Also places extra arguments

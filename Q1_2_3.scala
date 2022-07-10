@@ -13,5 +13,7 @@ object Q1_2_3 extends App{
     println((i+1) * n); // ++i isn't valid in Scala
 }
 
-/*println:
-It is utilized in putting down values to the Console and moreover computes a trailing newline. we can pass any types as argument to it.*/
+// println:
+// Utilized in putting down values to the console 
+// Computes a trailing newline
+// Can pass any types as argument to it
