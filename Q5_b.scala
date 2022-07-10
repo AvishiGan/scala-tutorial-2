@@ -15,5 +15,8 @@ object Q5_b extends App{
     // Profit =  Revenue - Cost
     def profit(price: Int): Int = revenue(price) - cost(price)
 
-    printf(profit(5), profit(10), profit(15), profit(20), profit(25), profit(30), profit(35), profit(40))
+    print(profit(5), profit(10), profit(15), profit(20), profit(25), profit(30), profit(35), profit(40))
 }
+
+/*Print:
+It is equivalent to println but it does not computes any trailing line. It puts down the data to the beginning of the line.*/
