@@ -1,4 +1,4 @@
-object Q5(a) extends app{
+object Q5_a extends App{
     // Salary wage = Wage hours * 250
     def wage(hours: Int): Int = hours * 250
 
@@ -14,7 +14,7 @@ object Q5(a) extends app{
     // Take home = Income - Tax
     def takeHome(h1: Int, h2: Int): Double = income(h1, h2) - tax(income(h1, h2))
 
-    print("Income = %d", income(40, 30))
+    printf("Income = %d\n", income(40, 30))
 
-    print("Take Home = %.2f", takeHome(40, 30))
+    printf("Take Home = %.2f", takeHome(40, 30))
 }
