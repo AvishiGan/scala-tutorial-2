@@ -1,4 +1,4 @@
-object Q1,2,3 extends App{
+object Q1_2_3 extends App{
     var k, i, j: Int = 2
     var m, n: Int = 5
     var f: Float = 12.0f
