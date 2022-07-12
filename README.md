@@ -1,2 +1,2 @@
 # Scala Tutorial 2
-Scala tutorial 2 submission
+Scala tutorial 2 submissions
